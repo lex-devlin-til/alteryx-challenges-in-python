@@ -1,0 +1,27 @@
+Account_key,Report,Class,Account
+210,Profit and Loss,Sales,Sales
+220,Profit and Loss,Sales,Sales Return
+230,Profit and Loss,Cost of Sales,Cost of Sales
+240,Profit and Loss,Operating Expenses,Staff Costs
+250,Profit and Loss,Operating Expenses,Bad Debt Expense
+260,Profit and Loss,Operating Expenses,Commissions
+270,Profit and Loss,Operating Expenses,Conferences
+280,Profit and Loss,Operating Expenses,Advertisements
+290,Profit and Loss,Operating Expenses,Travel
+300,Profit and Loss,Operating Expenses,Entertainment
+310,Profit and Loss,Operating Expenses,Office Supplies
+320,Profit and Loss,Operating Expenses,Professional Services
+330,Profit and Loss,Operating Expenses,Telephone
+340,Profit and Loss,Operating Expenses,Utilities
+350,Profit and Loss,Operating Expenses,Other Expenses
+360,Profit and Loss,Operating Expenses,Rent
+370,Profit and Loss,Depreciation & Amortization,Vehicles
+380,Profit and Loss,Depreciation & Amortization,Equipment
+390,Profit and Loss,Depreciation & Amortization,Furniture and Fixtures
+400,Profit and Loss,Depreciation & Amortization,Amortization of Intangible Assets
+410,Profit and Loss,Interest,Interest Income
+420,Profit and Loss,Gain/Loss on Sales of Asset,Gain/Loss on Sales of Asset
+430,Profit and Loss,Exchange Loss/Gain,Exchange Loss/Gain
+431,Profit and Loss,Dividend,Dividend Income
+440,Profit and Loss,Interest,Interest Expense
+450,Profit and Loss,Tax,Taxation

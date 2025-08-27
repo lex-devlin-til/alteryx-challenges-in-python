@@ -1,0 +1,156 @@
+borough,day,total_pickups
+Bronx,1,1075
+Bronx,2,545
+Bronx,3,719
+Bronx,4,590
+Bronx,5,487
+Bronx,6,601
+Bronx,7,590
+Bronx,8,704
+Bronx,9,758
+Bronx,10,793
+Bronx,11,707
+Bronx,12,644
+Bronx,13,631
+Bronx,14,673
+Bronx,15,726
+Bronx,16,856
+Bronx,17,991
+Bronx,18,1029
+Bronx,19,618
+Bronx,20,626
+Bronx,21,631
+Bronx,22,682
+Bronx,23,774
+Bronx,24,880
+Bronx,25,771
+Bronx,26,590
+Bronx,27,337
+Bronx,28,729
+Bronx,29,743
+Bronx,30,942
+Bronx,31,1019
+Brooklyn,1,12528
+Brooklyn,2,7311
+Brooklyn,3,11007
+Brooklyn,4,8715
+Brooklyn,5,6537
+Brooklyn,6,7056
+Brooklyn,7,8767
+Brooklyn,8,9345
+Brooklyn,9,9793
+Brooklyn,10,14436
+Brooklyn,11,11845
+Brooklyn,12,7455
+Brooklyn,13,7856
+Brooklyn,14,8360
+Brooklyn,15,8972
+Brooklyn,16,10460
+Brooklyn,17,15241
+Brooklyn,18,14355
+Brooklyn,19,8355
+Brooklyn,20,7414
+Brooklyn,21,8112
+Brooklyn,22,8565
+Brooklyn,23,10293
+Brooklyn,24,15206
+Brooklyn,25,12655
+Brooklyn,26,6361
+Brooklyn,27,4071
+Brooklyn,28,8625
+Brooklyn,29,9179
+Brooklyn,30,12153
+Brooklyn,31,17983
+Manhattan,1,35870
+Manhattan,2,27423
+Manhattan,3,41691
+Manhattan,4,27403
+Manhattan,5,30879
+Manhattan,6,41277
+Manhattan,7,49347
+Manhattan,8,57734
+Manhattan,9,55004
+Manhattan,10,59148
+Manhattan,11,42733
+Manhattan,12,45936
+Manhattan,13,51780
+Manhattan,14,51588
+Manhattan,15,53169
+Manhattan,16,56240
+Manhattan,17,53218
+Manhattan,18,54725
+Manhattan,19,32283
+Manhattan,20,42411
+Manhattan,21,47292
+Manhattan,22,52214
+Manhattan,23,55833
+Manhattan,24,60549
+Manhattan,25,41530
+Manhattan,26,34128
+Manhattan,27,19242
+Manhattan,28,46541
+Manhattan,29,54329
+Manhattan,30,65081
+Manhattan,31,68945
+Queens,1,5108
+Queens,2,4346
+Queens,3,5773
+Queens,4,6486
+Queens,5,5649
+Queens,6,4434
+Queens,7,4238
+Queens,8,5024
+Queens,9,5404
+Queens,10,5700
+Queens,11,5729
+Queens,12,4857
+Queens,13,4125
+Queens,14,4033
+Queens,15,4907
+Queens,16,5478
+Queens,17,5761
+Queens,18,6018
+Queens,19,6083
+Queens,20,5178
+Queens,21,4182
+Queens,22,4777
+Queens,23,5360
+Queens,24,5835
+Queens,25,6268
+Queens,26,3964
+Queens,27,1613
+Queens,28,5253
+Queens,29,5364
+Queens,30,5826
+Queens,31,6438
+Staten Island,1,53
+Staten Island,2,22
+Staten Island,3,23
+Staten Island,4,16
+Staten Island,5,19
+Staten Island,6,13
+Staten Island,7,22
+Staten Island,8,17
+Staten Island,9,37
+Staten Island,10,25
+Staten Island,11,16
+Staten Island,12,23
+Staten Island,13,23
+Staten Island,14,25
+Staten Island,15,25
+Staten Island,16,33
+Staten Island,17,34
+Staten Island,18,31
+Staten Island,19,21
+Staten Island,20,26
+Staten Island,21,36
+Staten Island,22,20
+Staten Island,23,34
+Staten Island,24,45
+Staten Island,25,25
+Staten Island,26,16
+Staten Island,27,16
+Staten Island,28,21
+Staten Island,29,27
+Staten Island,30,35
+Staten Island,31,42
